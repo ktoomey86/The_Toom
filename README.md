@@ -1,6 +1,6 @@
 ## Thanks for checking out my Github ##
 
-** Contact:** 
+### Contact: ###
 * Kyle Toomey
 * ktoomey86@gmail.com
 * https://www.linkedin.com/in/kyletoomey
