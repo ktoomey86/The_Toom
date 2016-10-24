@@ -1,0 +1,3 @@
+sandbox <- 1:5
+names(sandbox) <- c('a','b','c','d','e')
+barplot(sandbox)
