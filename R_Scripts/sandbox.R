@@ -6,3 +6,8 @@ land[4,4]<-0
 persp(land, expand =.25)
 print(land)
 plot(sandbox)
+barplot(sandbox)
+abline(h=mean(sandbox))
+deviation<-sd(sandbox)
+abline(h=mean(sandbox)-deviation)
+abline(h=mean(sandbox)+deviation)
