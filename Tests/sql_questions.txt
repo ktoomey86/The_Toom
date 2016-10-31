@@ -1,0 +1,32 @@
+##using inner join as default, not sure if left or right join would be more appropriate with the database/dataset
+##assuption of Postgres database, uing syntax as such
+##being as verbose as possible with the queries to explain logic
+
+Using the hypothetical database described in sql_question_schema.png, write queries that address the following two questions.
+
+1. Get spend, conversions and cost per conversion by date for rows where the account column equals "Account X" from the adwords and adwords_conversions tables. Only conversions of type "Ticket Purchase" should be counted (the type of conversion event is contained in the "conversion_type_name" column).
+
+CREATE VIEW 1st_table AS
+SELECT adwords.account, adwords.date, adwords.campaign, adwords.spend, adword_conversions.conversions, (adwords.spend/adword_conversions.conversions) AS "cost_per_conversion"
+FROM adwords
+INNER JOIN adword_conversions
+    ON adwords.account = adword_conversions.account
+INNER JOIN adword_conversions
+    ON adwords.date = adword_conversions.date
+INNER JOIN adword_conversions
+    ON adwords.campaign = adword_conversions.campaign
+WHERE adwords.account = "Account X" AND adword_conversions.conversion_type_name = "Ticket Purchase" 
+ORDER BY adwords.date;
+
+2. Join the spend, impression, conversions, and cost per converion columns from the "bing" table to the table produced in question 1. The values from the bing table should also be for "Account X" only, grouped by date. Feel free to name the columns however you feel is appropriate to distinguish between the columns from the two different tables.
+
+SELECT 1st_table.spend, 1st_table.conversions, (1st_table.spend/1st_table.conversions) AS "cost_per_conversion", bing.spend, bing.impression, bing.conversions, (bing.spend/bing.conversions) as bing.cost_per_conversion
+FROM 1st_table
+INNER JOIN bing
+    ON adwords.account = bing.account
+INNER JOIN bing
+    ON adwords.date = bing.date
+INNER JOIN bing
+    ON adwords.campaign = bing.campaign
+WHERE 1st_table.account = "Account X" AND 1st_table.conversion_type_name = "Ticket Purchase" 
+ORDER BY 1st_table.date;

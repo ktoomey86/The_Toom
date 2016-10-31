@@ -1,0 +1,386 @@
+Date,Holiday,Type,Bank Holiday
+01/01/2009,New Year's Day,Bank Holiday,TRUE
+25/01/2009,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2009,Holocaust Memorial Day,Notable Date,FALSE
+14/02/2009,Valentines Day,Notable Date,FALSE
+24/02/2009,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+25/02/2009,Ash Wednesday,Religious Date,FALSE
+01/03/2009,St David's Day,Notable Date,FALSE
+17/03/2009,St Patricks Day,Religious Date,FALSE
+22/03/2009,Mothering Sunday (Mothers Day),Notable Date,FALSE
+29/03/2009,British Summertime (BST) Begins,Notable Date,FALSE
+01/04/2009,April Fool's Day,Notable Date,FALSE
+09/04/2009,Maundy Thursday,Religious Date,FALSE
+10/04/2009,Good Friday,Bank Holiday,TRUE
+12/04/2009,Easter Sunday,Religious Date,FALSE
+13/04/2009,Easter Monday,Bank Holiday,TRUE
+21/04/2009,Queen Elizabeth's Birthday,Notable Date,FALSE
+23/04/2009,St George's Day,Religious Date,FALSE
+04/05/2009,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+25/05/2009,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2009,Trooping the Colour,Notable Date,FALSE
+21/06/2009,Father's Day,Notable Date,FALSE
+14/07/2009,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2009,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+31/08/2009,Summer Bank Holiday,Bank Holiday,TRUE
+25/10/2009,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2009,Halloween,Notable Date,FALSE
+01/11/2009,All Saints Day,Religious Date,FALSE
+05/11/2009,Guy Fawkes Night,Notable Date,FALSE
+08/11/2009,Remembrance Day (Remembrance Sunday),Notable Date,FALSE
+30/11/2009,St Andrew's Day,Religious Date,FALSE
+25/12/2009,Christmas,Bank Holiday,TRUE
+28/12/2009,Boxing Day,Bank Holiday,TRUE
+01/01/2010,New Year's Day,Bank Holiday,TRUE
+25/01/2010,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2010,Holocaust Memorial Day,Notable Date,FALSE
+14/02/2010,Valentines Day,Notable Date,FALSE
+16/02/2010,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+17/02/2010,Ash Wednesday,Religious Date,FALSE
+01/03/2010,St David's Day,Notable Date,FALSE
+14/03/2010,Mothering Sunday (Mothers Day),Notable Date,FALSE
+17/03/2010,St Patricks Day,Religious Date,FALSE
+28/03/2010,British Summertime (BST) Begins,Notable Date,FALSE
+01/04/2010,April Fool's Day,Notable Date,FALSE
+01/04/2010,Maundy Thursday,Religious Date,FALSE
+02/04/2010,Good Friday,Bank Holiday,TRUE
+04/04/2010,Easter Sunday,Religious Date,FALSE
+05/04/2010,Easter Monday,Bank Holiday,TRUE
+21/04/2010,Queen Elizabeth's Birthday,Notable Date,FALSE
+23/04/2010,St George's Day,Religious Date,FALSE
+03/05/2010,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+31/05/2010,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2010,Trooping the Colour,Notable Date,FALSE
+20/06/2010,Father's Day,Notable Date,FALSE
+14/07/2010,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2010,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+30/08/2010,Summer Bank Holiday,Bank Holiday,TRUE
+31/10/2010,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2010,Halloween,Notable Date,FALSE
+01/11/2010,All Saints Day,Religious Date,FALSE
+05/11/2010,Guy Fawkes Night,Notable Date,FALSE
+14/11/2010,Remembrance Day (Remembrance Sunday),Notable Date,FALSE
+30/11/2010,St Andrew's Day,Religious Date,FALSE
+27/12/2010,Boxing Day,Bank Holiday,TRUE
+28/12/2010,Christmas,Bank Holiday,TRUE
+02/01/2011,Hogmanay,Notable Date,FALSE
+03/01/2011,New Year's Day,Bank Holiday,TRUE
+25/01/2011,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2011,Holocaust Memorial Day,Notable Date,FALSE
+14/02/2011,Valentines Day,Notable Date,FALSE
+01/03/2011,St David's Day,Notable Date,FALSE
+08/03/2011,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+09/03/2011,Ash Wednesday,Religious Date,FALSE
+17/03/2011,St Patricks Day,Religious Date,FALSE
+27/03/2011,British Summertime (BST) Begins,Notable Date,FALSE
+01/04/2011,April Fool's Day,Notable Date,FALSE
+03/04/2011,Mothering Sunday (Mothers Day),Notable Date,FALSE
+21/04/2011,Maundy Thursday,Religious Date,FALSE
+21/04/2011,Queen Elizabeth's Birthday,Notable Date,FALSE
+22/04/2011,Good Friday,Bank Holiday,TRUE
+23/04/2011,St George's Day,Religious Date,FALSE
+24/04/2011,Easter Sunday,Religious Date,FALSE
+25/04/2011,Easter Monday,Bank Holiday,TRUE
+02/05/2011,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+30/05/2011,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2011,Trooping the Colour,Notable Date,FALSE
+19/06/2011,Father's Day,Notable Date,FALSE
+14/07/2011,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2011,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+29/08/2011,Summer Bank Holiday,Bank Holiday,TRUE
+30/10/2011,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2011,Halloween,Notable Date,FALSE
+01/11/2011,All Saints Day,Religious Date,FALSE
+05/11/2011,Guy Fawkes Night,Notable Date,FALSE
+13/11/2011,Remembrance Day (Remembrance Sunday),Notable Date,FALSE
+30/11/2011,St Andrew's Day,Religious Date,FALSE
+26/12/2011,Boxing Day,Bank Holiday,TRUE
+27/12/2011,Christmas,Bank Holiday,TRUE
+01/01/2012,Hogmanay,Notable Date,FALSE
+02/01/2012,New Year's Day,Bank Holiday,TRUE
+25/01/2012,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2012,Holocaust Memorial Day,Notable Date,FALSE
+14/02/2012,Valentines Day,Notable Date,FALSE
+21/02/2012,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+22/02/2012,Ash Wednesday,Religious Date,FALSE
+01/03/2012,St David's Day,Notable Date,FALSE
+17/03/2012,St Patricks Day,Religious Date,FALSE
+18/03/2012,Mothering Sunday (Mothers Day),Notable Date,FALSE
+25/03/2012,British Summertime (BST) Begins,Notable Date,FALSE
+01/04/2012,April Fool's Day,Notable Date,FALSE
+05/04/2012,Maundy Thursday,Religious Date,FALSE
+06/04/2012,Good Friday,Bank Holiday,TRUE
+08/04/2012,Easter Sunday,Religious Date,FALSE
+09/04/2012,Easter Monday,Bank Holiday,TRUE
+21/04/2012,Queen Elizabeth's Birthday,Notable Date,FALSE
+23/04/2012,St George's Day,Religious Date,FALSE
+07/05/2012,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+28/05/2012,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2012,Trooping the Colour,Notable Date,FALSE
+17/06/2012,Father's Day,Notable Date,FALSE
+14/07/2012,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2012,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+27/08/2012,Summer Bank Holiday,Bank Holiday,TRUE
+28/10/2012,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2012,Halloween,Notable Date,FALSE
+01/11/2012,All Saints Day,Religious Date,FALSE
+05/11/2012,Guy Fawkes Night,Notable Date,FALSE
+30/11/2012,St Andrew's Day,Religious Date,FALSE
+25/12/2012,Christmas,Bank Holiday,TRUE
+26/12/2012,Boxing Day,Bank Holiday,TRUE
+01/01/2013,New Year's Day,Bank Holiday,TRUE
+25/01/2013,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2013,Holocaust Memorial Day,Notable Date,FALSE
+12/02/2013,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+13/02/2013,Ash Wednesday,Religious Date,FALSE
+14/02/2013,Valentines Day,Notable Date,FALSE
+01/03/2013,St David's Day,Notable Date,FALSE
+10/03/2013,Mothering Sunday (Mothers Day),Notable Date,FALSE
+17/03/2013,St Patricks Day,Religious Date,FALSE
+28/03/2013,Maundy Thursday,Religious Date,FALSE
+29/03/2013,Good Friday,Bank Holiday,TRUE
+31/03/2013,British Summertime (BST) Begins,Notable Date,FALSE
+31/03/2013,Easter Sunday,Religious Date,FALSE
+01/04/2013,April Fool's Day,Notable Date,FALSE
+01/04/2013,Easter Monday,Bank Holiday,TRUE
+21/04/2013,Queen Elizabeth's Birthday,Notable Date,FALSE
+23/04/2013,St George's Day,Religious Date,FALSE
+06/05/2013,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+27/05/2013,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2013,Trooping the Colour,Notable Date,FALSE
+16/06/2013,Father's Day,Notable Date,FALSE
+14/07/2013,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2013,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+26/08/2013,Summer Bank Holiday,Bank Holiday,TRUE
+27/10/2013,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2013,Halloween,Notable Date,FALSE
+01/11/2013,All Saints Day,Religious Date,FALSE
+05/11/2013,Guy Fawkes Night,Notable Date,FALSE
+10/11/2013,Remembrance Day (Remembrance Sunday),Notable Date,FALSE
+30/11/2013,St Andrew's Day,Religious Date,FALSE
+25/12/2013,Christmas,Bank Holiday,TRUE
+26/12/2013,Boxing Day,Bank Holiday,TRUE
+01/01/2014,New Year's Day,Bank Holiday,TRUE
+25/01/2014,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2014,Holocaust Memorial Day,Notable Date,FALSE
+14/02/2014,Valentines Day,Notable Date,FALSE
+01/03/2014,St David's Day,Notable Date,FALSE
+04/03/2014,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+05/03/2014,Ash Wednesday,Religious Date,FALSE
+17/03/2014,St Patricks Day,Religious Date,FALSE
+30/03/2014,British Summertime (BST) Begins,Notable Date,FALSE
+30/03/2014,Mothering Sunday (Mothers Day),Notable Date,FALSE
+01/04/2014,April Fool's Day,Notable Date,FALSE
+17/04/2014,Maundy Thursday,Religious Date,FALSE
+18/04/2014,Good Friday,Bank Holiday,TRUE
+20/04/2014,Easter Sunday,Religious Date,FALSE
+21/04/2014,Easter Monday,Bank Holiday,TRUE
+21/04/2014,Queen Elizabeth's Birthday,Notable Date,FALSE
+23/04/2014,St George's Day,Religious Date,FALSE
+05/05/2014,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+26/05/2014,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2014,Trooping the Colour,Notable Date,FALSE
+15/06/2014,Father's Day,Notable Date,FALSE
+14/07/2014,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2014,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+25/08/2014,Summer Bank Holiday,Bank Holiday,TRUE
+26/10/2014,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2014,Halloween,Notable Date,FALSE
+01/11/2014,All Saints Day,Religious Date,FALSE
+05/11/2014,Guy Fawkes Night,Notable Date,FALSE
+09/11/2014,Remembrance Day (Remembrance Sunday),Notable Date,FALSE
+30/11/2014,St Andrew's Day,Religious Date,FALSE
+25/12/2014,Christmas,Bank Holiday,TRUE
+26/12/2014,Boxing Day,Bank Holiday,TRUE
+01/01/2015,New Year's Day,Bank Holiday,TRUE
+25/01/2015,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2015,Holocaust Memorial Day,Notable Date,FALSE
+14/02/2015,Valentines Day,Notable Date,FALSE
+17/02/2015,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+18/02/2015,Ash Wednesday,Religious Date,FALSE
+01/03/2015,St David's Day,Notable Date,FALSE
+15/03/2015,Mothering Sunday (Mothers Day),Notable Date,FALSE
+17/03/2015,St Patricks Day,Religious Date,FALSE
+29/03/2015,British Summertime (BST) Begins,Notable Date,FALSE
+01/04/2015,April Fool's Day,Notable Date,FALSE
+02/04/2015,Maundy Thursday,Religious Date,FALSE
+03/04/2015,Good Friday,Bank Holiday,TRUE
+05/04/2015,Easter Sunday,Religious Date,FALSE
+06/04/2015,Easter Monday,Bank Holiday,TRUE
+21/04/2015,Queen Elizabeth's Birthday,Notable Date,FALSE
+23/04/2015,St George's Day,Religious Date,FALSE
+04/05/2015,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+25/05/2015,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2015,Trooping the Colour,Notable Date,FALSE
+21/06/2015,Father's Day,Notable Date,FALSE
+14/07/2015,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2015,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+31/08/2015,Summer Bank Holiday,Bank Holiday,TRUE
+25/10/2015,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2015,Halloween,Notable Date,FALSE
+01/11/2015,All Saints Day,Religious Date,FALSE
+05/11/2015,Guy Fawkes Night,Notable Date,FALSE
+08/11/2015,Remembrance Day (Remembrance Sunday),Notable Date,FALSE
+30/11/2015,St Andrew's Day,Religious Date,FALSE
+25/12/2015,Christmas,Bank Holiday,TRUE
+28/12/2015,Boxing Day,Bank Holiday,TRUE
+01/01/2016,New Year's Day,Bank Holiday,TRUE
+25/01/2016,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2016,Holocaust Memorial Day,Notable Date,FALSE
+09/02/2016,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+10/02/2016,Ash Wednesday,Religious Date,FALSE
+14/02/2016,Valentines Day,Notable Date,FALSE
+01/03/2016,St David's Day,Notable Date,FALSE
+06/03/2016,Mothering Sunday (Mothers Day),Notable Date,FALSE
+17/03/2016,St Patricks Day,Religious Date,FALSE
+24/03/2016,Maundy Thursday,Religious Date,FALSE
+25/03/2016,Good Friday,Bank Holiday,TRUE
+27/03/2016,British Summertime (BST) Begins,Notable Date,FALSE
+27/03/2016,Easter Sunday,Religious Date,FALSE
+28/03/2016,Easter Monday,Bank Holiday,TRUE
+01/04/2016,April Fool's Day,Notable Date,FALSE
+21/04/2016,Queen Elizabeth's Birthday,Notable Date,FALSE
+23/04/2016,St George's Day,Religious Date,FALSE
+02/05/2016,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+30/05/2016,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2016,Trooping the Colour,Notable Date,FALSE
+19/06/2016,Father's Day,Notable Date,FALSE
+14/07/2016,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2016,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+29/08/2016,Summer Bank Holiday,Bank Holiday,TRUE
+30/10/2016,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2016,Halloween,Notable Date,FALSE
+01/11/2016,All Saints Day,Religious Date,FALSE
+05/11/2016,Guy Fawkes Night,Notable Date,FALSE
+13/11/2016,Remembrance Day (Remembrance Sunday),Notable Date,FALSE
+30/11/2016,St Andrew's Day,Religious Date,FALSE
+26/12/2016,Boxing Day,Bank Holiday,TRUE
+27/12/2016,Christmas,Bank Holiday,TRUE
+01/01/2017,Hogmanay,Notable Date,FALSE
+02/01/2017,New Year's Day,Bank Holiday,TRUE
+25/01/2017,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2017,Holocaust Memorial Day,Notable Date,FALSE
+14/02/2017,Valentines Day,Notable Date,FALSE
+28/02/2017,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+01/03/2017,Ash Wednesday,Religious Date,FALSE
+01/03/2017,St David's Day,Notable Date,FALSE
+17/03/2017,St Patricks Day,Religious Date,FALSE
+26/03/2017,British Summertime (BST) Begins,Notable Date,FALSE
+26/03/2017,Mothering Sunday (Mothers Day),Notable Date,FALSE
+01/04/2017,April Fool's Day,Notable Date,FALSE
+13/04/2017,Maundy Thursday,Religious Date,FALSE
+14/04/2017,Good Friday,Bank Holiday,TRUE
+16/04/2017,Easter Sunday,Religious Date,FALSE
+17/04/2017,Easter Monday,Bank Holiday,TRUE
+21/04/2017,Queen Elizabeth's Birthday,Notable Date,FALSE
+23/04/2017,St George's Day,Religious Date,FALSE
+01/05/2017,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+29/05/2017,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2017,Trooping the Colour,Notable Date,FALSE
+18/06/2017,Father's Day,Notable Date,FALSE
+14/07/2017,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2017,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+28/08/2017,Summer Bank Holiday,Bank Holiday,TRUE
+29/10/2017,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2017,Halloween,Notable Date,FALSE
+01/11/2017,All Saints Day,Religious Date,FALSE
+05/11/2017,Guy Fawkes Night,Notable Date,FALSE
+12/11/2017,Remembrance Day (Remembrance Sunday),Notable Date,FALSE
+30/11/2017,St Andrew's Day,Religious Date,FALSE
+25/12/2017,Christmas,Bank Holiday,TRUE
+26/12/2017,Boxing Day,Bank Holiday,TRUE
+01/01/2018,New Year's Day,Bank Holiday,TRUE
+25/01/2018,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2018,Holocaust Memorial Day,Notable Date,FALSE
+13/02/2018,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+14/02/2018,Ash Wednesday,Religious Date,FALSE
+14/02/2018,Valentines Day,Notable Date,FALSE
+01/03/2018,St David's Day,Notable Date,FALSE
+11/03/2018,Mothering Sunday (Mothers Day),Notable Date,FALSE
+17/03/2018,St Patricks Day,Religious Date,FALSE
+25/03/2018,British Summertime (BST) Begins,Notable Date,FALSE
+29/03/2018,Maundy Thursday,Religious Date,FALSE
+30/03/2018,Good Friday,Bank Holiday,TRUE
+01/04/2018,April Fool's Day,Notable Date,FALSE
+01/04/2018,Easter Sunday,Religious Date,FALSE
+02/04/2018,Easter Monday,Bank Holiday,TRUE
+21/04/2018,Queen Elizabeth's Birthday,Notable Date,FALSE
+23/04/2018,St George's Day,Religious Date,FALSE
+07/05/2018,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+28/05/2018,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2018,Trooping the Colour,Notable Date,FALSE
+17/06/2018,Father's Day,Notable Date,FALSE
+14/07/2018,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2018,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+27/08/2018,Summer Bank Holiday,Bank Holiday,TRUE
+28/10/2018,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2018,Halloween,Notable Date,FALSE
+01/11/2018,All Saints Day,Religious Date,FALSE
+05/11/2018,Guy Fawkes Night,Notable Date,FALSE
+30/11/2018,St Andrew's Day,Religious Date,FALSE
+25/12/2018,Christmas,Bank Holiday,TRUE
+26/12/2018,Boxing Day,Bank Holiday,TRUE
+01/01/2019,New Year's Day,Bank Holiday,TRUE
+25/01/2019,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2019,Holocaust Memorial Day,Notable Date,FALSE
+14/02/2019,Valentines Day,Notable Date,FALSE
+01/03/2019,St David's Day,Notable Date,FALSE
+05/03/2019,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+06/03/2019,Ash Wednesday,Religious Date,FALSE
+17/03/2019,St Patricks Day,Religious Date,FALSE
+31/03/2019,British Summertime (BST) Begins,Notable Date,FALSE
+31/03/2019,Mothering Sunday (Mothers Day),Notable Date,FALSE
+01/04/2019,April Fool's Day,Notable Date,FALSE
+18/04/2019,Maundy Thursday,Religious Date,FALSE
+19/04/2019,Good Friday,Bank Holiday,TRUE
+21/04/2019,Easter Sunday,Religious Date,FALSE
+21/04/2019,Queen Elizabeth's Birthday,Notable Date,FALSE
+22/04/2019,Easter Monday,Bank Holiday,TRUE
+23/04/2019,St George's Day,Religious Date,FALSE
+06/05/2019,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+27/05/2019,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2019,Trooping the Colour,Notable Date,FALSE
+16/06/2019,Father's Day,Notable Date,FALSE
+14/07/2019,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2019,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+26/08/2019,Summer Bank Holiday,Bank Holiday,TRUE
+27/10/2019,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2019,Halloween,Notable Date,FALSE
+01/11/2019,All Saints Day,Religious Date,FALSE
+05/11/2019,Guy Fawkes Night,Notable Date,FALSE
+10/11/2019,Remembrance Day (Remembrance Sunday),Notable Date,FALSE
+30/11/2019,St Andrew's Day,Religious Date,FALSE
+25/12/2019,Christmas,Bank Holiday,TRUE
+26/12/2019,Boxing Day,Bank Holiday,TRUE
+01/01/2020,New Year's Day,Bank Holiday,TRUE
+25/01/2020,Robert Burns Night (Burns Night),Notable Date,FALSE
+27/01/2020,Holocaust Memorial Day,Notable Date,FALSE
+14/02/2020,Valentines Day,Notable Date,FALSE
+25/02/2020,Shrove Tuesday (Pancake Day),Notable Date,FALSE
+26/02/2020,Ash Wednesday,Religious Date,FALSE
+01/03/2020,St David's Day,Notable Date,FALSE
+17/03/2020,St Patricks Day,Religious Date,FALSE
+22/03/2020,Mothering Sunday (Mothers Day),Notable Date,FALSE
+29/03/2020,British Summertime (BST) Begins,Notable Date,FALSE
+01/04/2020,April Fool's Day,Notable Date,FALSE
+09/04/2020,Maundy Thursday,Religious Date,FALSE
+10/04/2020,Good Friday,Bank Holiday,TRUE
+12/04/2020,Easter Sunday,Religious Date,FALSE
+13/04/2020,Easter Monday,Bank Holiday,TRUE
+21/04/2020,Queen Elizabeth's Birthday,Notable Date,FALSE
+23/04/2020,St George's Day,Religious Date,FALSE
+04/05/2020,May Day (Early May Bank Holiday),Bank Holiday,TRUE
+25/05/2020,Spring Bank Holiday,Bank Holiday,TRUE
+14/06/2020,Trooping the Colour,Notable Date,FALSE
+21/06/2020,Father's Day,Notable Date,FALSE
+14/07/2020,Emmeline Pankhurst Day,Notable Date,FALSE
+15/07/2020,St.Swithun's Day (aka St. Swithin's),Religious Date,FALSE
+31/08/2020,Summer Bank Holiday,Bank Holiday,TRUE
+25/10/2020,British Summertime (BST) Ends,Notable Date,FALSE
+31/10/2020,Halloween,Notable Date,FALSE
+01/11/2020,All Saints Day,Religious Date,FALSE
+05/11/2020,Guy Fawkes Night,Notable Date,FALSE
+08/11/2020,Remembrance Day (Remembrance Sunday),Notable Date,FALSE
+30/11/2020,St Andrew's Day,Religious Date,FALSE
+25/12/2020,Christmas,Bank Holiday,TRUE
+28/12/2020,Boxing Day,Bank Holiday,TRUE
