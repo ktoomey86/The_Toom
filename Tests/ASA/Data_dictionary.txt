@@ -1,0 +1,100 @@
+Field Definitions 300, 304, and 305
+
+Field Name
+Field Definition
+OPE_ID
+Office of Postsecondary Education Identifier
+Name
+Institution's Name
+Address
+Street Address
+City
+City
+State
+State Abbreviation
+State Desc
+State Name
+Zip
+Zip Code
+Zip Ext
+Zip Code Extension
+Program Length
+The length of the longest program offered by the institution:
+0—Short-Term (300–599 hours)
+1—Graduate/Professional (≥ 300 hours)
+2—Non-Degree (600–899 hours)
+3—Non-Degree 1 Year (900–1799 hours)
+4—Non-Degree 2 Years (1800–2699 hours)
+5—Associate's Degree
+6—Bachelor's Degree
+7—First Professional Degree
+8—Master's Degree or Doctor's Degree
+9—Professional Certification
+10—Undergraduate (Previous Degree Required)
+11—Non-Degree 3 Plus Years (≥ 2700 hours)
+12—Two-Year Transfer
+Sch Type
+The code identifying the ownership control of the institution:
+1—Public
+2—Private, Nonprofit
+3—Proprietary
+5—Foreign public
+6—Foreign private
+7—Foreign For-Profit
+Year 1
+Cohort Year 2013
+Num 1
+Number of Borrowers in Default for 2013
+Denom 1
+Number of Borrowers in Repay for 2013
+DRate 1
+Official Cohort Default Rate for 2013
+PRate 1
+Identifies what type of rate was calculated for the institution.
+A—Actual
+B—Average,
+S—Substituted, or
+P—Lead School Combo
+Ethnic Code
+The code classifying the ethnic affiliation of the institution:
+1—Native American
+2—HBCU
+3—Hispanic
+4—Traditionally Black College
+5—Ethnicity Not Reported
+Cong Dis
+Congressional District—The congressional district of the main institution
+Region
+The main institution’s Department of Education regional code
+Average or Greater than 30
+Schools with fewer than 30 borrowers entering repayment during the cohort period use an average formula.
+0—Non-average formula
+1—Average formula
+Year 2
+Cohort Year 2012
+Num 2
+Number of Borrowers in Default for 2012
+Denom 2
+Number of Borrowers in Repay for 2012
+DRate 2
+Official Cohort Default Rate for 2012
+PRate 2
+Identifies what type of rate was calculated for the institution
+A—Actual
+B—Average,
+S—Substituted, or
+P—Lead School Combo
+Year 3
+Cohort Year 2011
+Num 3
+Number of Borrowers in Default for 2011
+Denom 3
+Number of Borrowers in Repay for 2011
+DRate 3
+Official Default Rate for 2011
+PRate 3
+Identifies what type of rate was calculated for the institution
+A—Actual
+B—Average,
+S—Substituted, or
+P—Lead School Combo
